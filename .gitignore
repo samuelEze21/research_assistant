@@ -205,3 +205,24 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+# Python cache
+*.pyc
+*.pyo
+
+# Environment variables
+# SQLite database
+*.db
+
+# VSCode/IDE settings
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
